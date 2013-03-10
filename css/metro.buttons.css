@@ -1,0 +1,29 @@
+a.downloadbutton {
+	padding: 11px 30px 13px 60px;
+	background: #1ba1e2 url(../img/download.png) no-repeat 14px 10px;
+	display: block;
+	width: 230px;
+	color: white;
+	text-decoration: none;
+	position: relative;
+	margin-top: 30px;
+}
+a.downloadbutton strong {
+	display: block;
+	font-size: 17px;
+	line-height: 1;
+	margin-bottom: 4px;
+}
+a.downloadbutton span {
+	display: block;
+	line-height: 1;
+	font-size: 12px;
+}
+a.downloadbutton:hover {
+	color: white;
+	background-color: #1080dd;
+	text-decoration:none;
+}
+a.downloadbutton:active {
+	top: 2px;
+}
